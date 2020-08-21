@@ -1,2 +1,2 @@
-# MavenWebProject
-Maven Web Test
+# Calculator
+Maven Web Project Test
